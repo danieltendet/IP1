@@ -72,4 +72,8 @@ body, html {
         font-family: monospace;
 
       }
-      
+
+      .click{
+        font-size: medium;
+        color: rgb(238, 83, 212);
+      }
