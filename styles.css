@@ -51,10 +51,25 @@ body, html {
      .image {
         flex-basis: 18.5%
       }
-      
+
       .text {
         font-size: 20px;
         padding-left: 20px;
         font-family: sans-serif;
       }   
+.bgr{
+          font-size: x-large;
+          font-family: cursive;
+      }
+      .hobby{
+        font-size: medium;
+        color: rgb(181, 219, 163);
+      }
 
+      .list{
+        color: honeydew;
+        font-size: x-large;
+        font-family: monospace;
+
+      }
+      
